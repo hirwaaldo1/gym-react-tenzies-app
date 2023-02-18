@@ -2,7 +2,7 @@
 
 ## Live version
 
-[Tenzies on netlify](https://Tenzies.app/)
+[Tenzies on netlify](https://dev--bespoke-gumdrop-ad41ca.netlify.app/)
 
 ## Contents
 
